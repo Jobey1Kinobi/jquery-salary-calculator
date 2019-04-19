@@ -1,4 +1,9 @@
-.body{
+#hone{
     color: white;
     background-color: teal;
+}
+
+
+#hr{
+    border-width: 100px;
 }
