@@ -1,6 +1,33 @@
+#bod{
+    text-align: justify;
+    background-color: rgb(69, 81, 116);
+}
 #head{
-    color: #dddddd;
-    background-color:#088da5;
-    padding: 2px;
+    color:black;
+    background-color: gold;
+    padding-left: 50px;
+    padding-right: 50px;
     text-align: center;
 }
+.employee{
+    font-style: italic;
+}
+#divone{
+    background-color: white;
+}
+
+
+
+
+table {font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
