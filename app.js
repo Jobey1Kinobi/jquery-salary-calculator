@@ -1,15 +1,17 @@
 console.log('app.js');
 
-$( document ).ready( functOne );
+let employeeArray = [];
+let monthlyBudget = 20000;
+
+$(document).ready(isReady);
 
 
-
-function functOne{
+function isReady(){
     console.log('JQ');
-    $('#submitBtn').on( 'click', employeeIn )
-}
+    $('#submitBtn').on('click', logEmployee )
+} //End isReady
 
-function employeeIn(){
-    let firstName = $('')
-    console.log('weeknd');
-}
+let firstName = $( '#firstfName').val();
+console.log( firstName);
+
+$( '#firstName').val('');

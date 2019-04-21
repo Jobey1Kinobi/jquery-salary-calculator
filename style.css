@@ -1,8 +1,9 @@
-#bod{
+body{
     text-align: justify;
-    background-color: rgb(69, 81, 116);
+    background-color: gainsboro;
 }
-#head{
+
+.head{
     color:black;
     background-color: gold;
     padding: 20px;
@@ -10,25 +11,7 @@
     padding-right: 50px;
     text-align: center;
 }
-.employee{
-    font-style: italic;
+
+#onset{
+    border-style: outset;
 }
-#divone{
-    background-color: white;
-}
-
-
-
-
-table {font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
-  td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
-  tr:nth-child(even) {
-    background-color: #dddddd;
-  }
