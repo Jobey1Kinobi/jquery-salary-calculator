@@ -16,7 +16,7 @@ Create a delete button that removes an employee from the DOM. For Base mode, it 
 ### Files Provided
 No files have been provided. Fork and clone this repository or create a new GitHub repository to get started. Make sure to commit regularily!
 
-### Wireframe
+### Wireframejquery-salary-calculator
 
 ![Wireframe](salary-calc-wireframe.png)
 
